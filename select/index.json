@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Never say never",
+  "base_artist": "渋谷凛 (CV: 福原綾香)",
+  "createdAt": "2026-03-01T02:08:45.507125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/01_Never_Say_Never_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/02_Never_Say_Never_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Say Never (GotSome Bring It Back Remix - Edit)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/03_Never_Say_Never_(GotSome_Bring_It_Back_Remix_-_Edit)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Say Never (GotSome Bring It Back Remix Edit)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/04_Never_Say_Never_(GotSome_Bring_It_Back_Remix_Edit)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Say Never (Jaxx Extended Mix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/05_Never_Say_Never_(Jaxx_Extended_Mix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Basement Jaxx feat. ETML",
+      "has_synced": false,
+      "path": "select/06_Never_Say_Never_Basement_Jaxx_feat._ETML.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Say Never (feat. ETML)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/07_Never_Say_Never_(feat._ETML)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Fastball",
+      "has_synced": false,
+      "path": "select/08_Never_Say_Never_Fastball.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Say Never Again",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/09_Never_Say_Never_Again_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Say Never Again [Alternate Mix]",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/10_Never_Say_Never_Again_[Alternate_Mix]_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Say Never Again (alternate mix)",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/11_Never_Say_Never_Again_(alternate_mix)_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Girlschool",
+      "has_synced": false,
+      "path": "select/12_Never_Say_Never_Girlschool.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Say Never - 2010 Remastered Version",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/13_Never_Say_Never_-_2010_Remastered_Version_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Say Never - 2010 Remastered Version (2010 Remastered Version)",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/14_Never_Say_Never_-_2010_Remastered_Version_(2010_Remastered_Version)_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Say Never - 2021 Remastered",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/15_Never_Say_Never_-_2021_Remastered_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Say Never - 2021 Remastered - 2021 Remastered (2021 Remastered)",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/16_Never_Say_Never_-_2021_Remastered_-_2021_Remastered_(2021_Remastered)_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/17_Never_Say_Never_Twisted_Sister.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never say never",
+      "artist": "渋谷凛 (CV:福原綾香)",
+      "has_synced": false,
+      "path": "select/pl_01_Never_say_never_渋谷凛_(CV_福原綾香).txt"
+    }
+  ]
+}
